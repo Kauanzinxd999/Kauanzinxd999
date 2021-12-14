@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF: 0 group-title = "CANAIS BRASILEIROS", ´
+#EXTSIZE: Grande
+#EXTBG: http: //i.imgur.com/rR0GWJK.jpg
+http://0.0.0.0
+
+#EXTINF: 0 group-title = "CANAIS BRASILEIROS", GLOBO
+http://95.141.35.104:8081/looktvs/sptv/playlist.m3u8
+
+#EXTINF: 0 group-title = "CANAIS BRASILEIROS", GLOBO
+http://95.141.32.213:8081/looktvs/globo/playlist.m3u8
+
+#EXTINF: 0 group-title = "CANAIS BRASILEIROS", GLOBO
+http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/chunklist.m3u8
+
+#EXTNF: -1 tvg-logo "" group-title = "2021", 007: Sem Tempo para Morrer (Dublado) - 2021 - 1080p https://m3u9.cf/vod2/RedeCanais/RedeCanais/RCFServer4/ondemand/007SMTMPRMRER /007SMTMPRMRER.m3u8?mu3zAQc9HC3GbwJq=qnrNFlWUnhMZv4RciQoIOg&3U1G7qaTxrPbalZnEx=1639374085
+
